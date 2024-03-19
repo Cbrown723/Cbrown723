@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Cbrown723/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Cbrown723/configure-ad)
-  - [DNS Management of A records,CNAME records and Local Cache](https://github/Cbrown723/dns-management)
+  - [DNS Management of A records,CNAME records and Local Cache](https://github.com/Cbrown723/dns-management)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Cbrown723/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
